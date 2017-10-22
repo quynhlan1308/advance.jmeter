@@ -1,0 +1,47 @@
+2017-10-22 14:14:37,814 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2017-10-22 14:14:37,854 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2017-10-22 14:14:37,884 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2017-10-22 14:14:37,914 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2017-10-22 14:14:37,914 INFO o.a.j.JMeter: Version 3.2 r1790748
+2017-10-22 14:14:37,914 INFO o.a.j.JMeter: java.version=1.8.0_144
+2017-10-22 14:14:37,914 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2017-10-22 14:14:37,914 INFO o.a.j.JMeter: os.name=Windows 7
+2017-10-22 14:14:37,914 INFO o.a.j.JMeter: os.arch=amd64
+2017-10-22 14:14:37,914 INFO o.a.j.JMeter: os.version=6.1
+2017-10-22 14:14:37,914 INFO o.a.j.JMeter: file.encoding=Cp1252
+2017-10-22 14:14:37,914 INFO o.a.j.JMeter: Max memory     =536870912
+2017-10-22 14:14:37,914 INFO o.a.j.JMeter: Available Processors =4
+2017-10-22 14:14:37,944 INFO o.a.j.JMeter: Default Locale=English (United States)
+2017-10-22 14:14:37,944 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2017-10-22 14:14:37,944 INFO o.a.j.JMeter: JMeterHome=D:\apache-jmeter-3.2
+2017-10-22 14:14:37,944 INFO o.a.j.JMeter: user.dir  =D:\apache-jmeter-3.2\bin
+2017-10-22 14:14:37,944 INFO o.a.j.JMeter: PWD       =D:\apache-jmeter-3.2\bin
+2017-10-22 14:14:37,944 INFO o.a.j.JMeter: IP: 192.168.56.1 Name: T420-PC FullName: T420-PC
+2017-10-22 14:14:38,584 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.metal.MetalLookAndFeel [Metal, CrossPlatform]
+2017-10-22 14:14:38,594 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2017-10-22 14:14:40,442 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2017-10-22 14:14:40,442 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2017-10-22 14:14:41,832 WARN o.j.r.PluginManager: Found JAR conflict: D:\apache-jmeter-3.2\lib\ext\jmeter-plugins-manager-0.16.jar and D:\apache-jmeter-3.2\lib\ext\jmeter-plugins-manager-0.15.jar
+2017-10-22 14:14:47,249 INFO o.j.r.PluginManager: Plugins Status: [jpgc-dummy=0.2, jpgc-plugins-manager=0.15, jmeter-core=3.2, jmeter-ftp=3.2, jmeter-http=3.2, jmeter-jdbc=3.2, jmeter-jms=3.2, jmeter-junit=3.2, jmeter-java=3.2, jmeter-ldap=3.2, jmeter-mail=3.2, jmeter-mongodb=3.2, jmeter-native=3.2, jmeter-tcp=3.2, jmeter-components=3.2]
+2017-10-22 14:14:47,259 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-plugins-manager]
+2017-10-22 14:14:50,069 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion
+2017-10-22 14:14:51,563 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor
+2017-10-22 14:14:51,688 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor
+2017-10-22 14:14:51,805 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-10-22 14:14:51,805 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-10-22 14:14:51,805 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-10-22 14:14:51,805 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-10-22 14:14:51,805 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2017-10-22 14:14:51,805 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2017-10-22 14:14:54,200 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2017-10-22 14:14:54,200 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file D:\apache-jmeter-3.2\bin\proxyserver.jks
+2017-10-22 14:14:54,708 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler
+2017-10-22 14:14:54,825 INFO o.a.j.s.FileServer: Default base='D:\apache-jmeter-3.2\bin'
+2017-10-22 14:14:55,146 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement
+2017-10-22 14:14:55,146 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler
+2017-10-22 14:14:56,171 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer
+2017-10-22 14:14:56,408 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener
+2017-10-22 14:14:57,076 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2017-10-22 14:14:57,076 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2017-10-22 14:14:57,076 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2017-10-22 14:14:57,076 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
